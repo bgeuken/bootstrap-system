@@ -1,8 +1,3 @@
-Install packages:
-  pkg.installed:
-    - pkgs:
-      - flameshot
-
 pkg.upgrade:
   module.run:
     # only for Tumbleweed

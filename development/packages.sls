@@ -1,6 +1,10 @@
 Install packages for development:
   pkg.installed:
     - pkgs:
-      - ruby2.5-devel
-      - git
       - docker
+      - flameshot
+      - git
+      - ruby2.5-devel
+      - ruby2.5-rubygem-bundler
+      - screen
+      - xz
